@@ -21,7 +21,6 @@ static const Worker_T INVALID_ID = (unsigned int)-1;
 
 #include "schedwork.h"
 
-#include <algorithm>
 
 // Recursive helper function for schedule()
 
